@@ -1,5 +1,4 @@
-# python_flow
-
+# python实现神经网络
 照着手写AI的视频写的代码：https://www.bilibili.com/video/BV1j3411t7VM
 
 功能 | 路径
